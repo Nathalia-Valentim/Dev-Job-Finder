@@ -1,0 +1,40 @@
+.metric{
+    display: flex;
+    padding: 0px 112px 120px 112px;
+    gap: 48px;
+    align-self: stretch;
+    justify-content: center;
+}
+.metric__item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.metricitem__span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    color: #8E2424;
+    flex: none;
+    width: 280px;
+    height: 72px;
+}
+.metricitem__textos {  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 12px;
+    color: #101828;
+    margin-bottom: 8px;
+}
+.metricitem__p {
+    align-self: stretch;
+    color: #667085;
+    width: 280px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}

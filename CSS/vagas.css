@@ -1,0 +1,100 @@
+.talentos {
+    display: flex;
+    padding: 0px 32px;
+    gap: 32px;
+    justify-content: center;
+    flex-direction: column;
+}
+.abertas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 0px;
+}
+.talentos__span {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #8E2424;
+    padding: 4px 12px;
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+}
+.talentos__h3 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    height: 20px;
+    width: 800px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+.talentos__p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 10px;
+    text-align: center;
+    color: #667085;
+}
+.imagemReuniao {
+    padding: 64px 112px 64px 112px;
+}
+
+
+.vagasAbertas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 32px;
+}
+.vaga {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 24px 28px;
+    gap: 24px;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    margin-bottom: 24px;
+}
+.tituloVaga {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    width: 720px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+}
+.area {
+    width: 768px;
+    height: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    color: #101828;
+}
+.informacoes {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    width: 720px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+}

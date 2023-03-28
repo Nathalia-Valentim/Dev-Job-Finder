@@ -1,0 +1,12 @@
+@import "nav.css";
+@import "cabecalho.css";
+@import "metricas.css";
+@import "vagas.css";
+@import "depoimentos.css";
+@import "footer.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter';
+}

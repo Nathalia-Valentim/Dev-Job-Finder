@@ -1,0 +1,47 @@
+.depoimentos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 96px;
+}
+.pessoa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1216px;
+    height: 404px;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    margin-bottom: 96px;
+}
+.pessoa__h3 {
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    color: #8E2424;
+    height: 0px;
+}
+.pessoa__h4 {
+    font-weight: bold;
+    font-size: 36px;
+    height: 64px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+.pessoa__nome {
+    font-weight: bold;
+    font-size: 16px;
+    height: 0px;
+    text-align: center;
+    color: #101828;
+}
+.pessoa__funcao {
+    font-weight: 400;
+    font-size: 14px;
+    height: 0px;
+    text-align: center;
+    color: #667085;
+}

@@ -1,0 +1,33 @@
+#sobrenos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 107px;
+    margin-bottom: 64px;
+}
+.sobrenos__span {
+    font-weight: 600;
+    font-size: 16px;
+    color: #8E2424;
+    padding: 18px;
+    width: 78px;
+    height: 24px;
+}
+.sobrenos__h2 {
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 18px;
+    color: #101828;
+    width: 603px;
+    height: 16px;
+}
+.sobrenos__p {
+    width: 791px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #667085;
+}
